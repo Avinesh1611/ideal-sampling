@@ -1,9 +1,9 @@
 # IDEAL SAMPLING
-## Aim
+## Aim:
 To study and analyze Ideal Sampling (Impulse Sampling), where a continuous-time signal is sampled using an impulse train, and observe its effects in both time and frequency domains. The experiment aims to verify the sampling theorem, analyze spectral characteristics, and understand signal reconstruction.
-## Tools Required
+## Tools Required:
 Personal computer installed with pPYLAB
-## PROGRAM
+## PROGRAM:
 ```
 #Impulse Sampling
 import numpy as np
@@ -43,13 +43,13 @@ plt.grid(True)
 plt.legend()
 plt.show()
 ```
-## Output Waveform
+## Output Waveform:
 ![image](https://github.com/user-attachments/assets/82267b93-0a9c-43ea-bbf0-11c81dbd9b03)
 ![image](https://github.com/user-attachments/assets/23e0f832-8777-4b9f-8b7d-31d0be8bf1d7)
 ![image](https://github.com/user-attachments/assets/09c6fd35-6f20-4b71-a161-c2f6e4299827)
 
 
-## Result
+## Result:
 The result of ideal sampling is a discrete-time signal that retains all the information of the original continuous-time signal is obtained and output is verified.
 
 
