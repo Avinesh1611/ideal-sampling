@@ -2,7 +2,7 @@
 ## Aim:
 To study and analyze Ideal Sampling (Impulse Sampling), where a continuous-time signal is sampled using an impulse train, and observe its effects in both time and frequency domains. The experiment aims to verify the sampling theorem, analyze spectral characteristics, and understand signal reconstruction.
 ## Tools Required:
-Personal computer installed with pPYLAB
+Personal computer installed with numpy.
 ## PROGRAM:
 ```
 #Impulse Sampling
