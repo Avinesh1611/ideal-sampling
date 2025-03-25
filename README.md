@@ -66,3 +66,6 @@ plt.show()
 The result of ideal sampling is a discrete-time signal that retains all the information of the original continuous-time signal is obtained and output is verified.
 
 
+
+
+
